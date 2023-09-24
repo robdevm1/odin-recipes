@@ -1,0 +1,31 @@
+body {
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(/img-bg.jpg);
+    background-size: contain;
+}
+.container {
+    margin: 0 auto;
+    height: 400px;
+    width: 550px;
+    border-radius: 8px;
+    background: linear-gradient(#9e9dff, #d6d7e2);
+
+}
+.title {
+    font-size: 4rem;
+    text-align: center;
+}
+.text {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+
+}
+ul {
+    margin-top: 80px;
+    text-align: center;
+    list-style: none;
+    
+}
